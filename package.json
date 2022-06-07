@@ -1,0 +1,13 @@
+{
+  "name": "express-graphql",
+  "version": "1.0.0",
+  "description": "estudando graphql",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "keywords": [],
+  "author": "Junior Carvalho",
+  "license": "MIT"
+}
