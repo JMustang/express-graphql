@@ -4,3 +4,5 @@
 - GraphQL
 - MongoDB
 - Mongoose
+- Color
+- Dotenv
